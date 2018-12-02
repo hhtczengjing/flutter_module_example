@@ -1,0 +1,6 @@
+framework module flutter_hybrid_router {
+  umbrella header "flutter_hybrid_router-umbrella.h"
+
+  export *
+  module * { export * }
+}
